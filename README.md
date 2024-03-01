@@ -23,7 +23,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Teaching LLMs Readoning in Predicate Logic</h3>
+<h3 align="center">Teaching LLMs Reasoning in Predicate Logic</h3>
 
   <p align="center">
     Master Thesis in NLP.
