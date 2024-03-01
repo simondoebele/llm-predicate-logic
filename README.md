@@ -108,7 +108,7 @@ The general pipeline is:
 * (3) Evaluation (see respective folder)
 * (4) Post-analyses (see notebooks folder)
 
-Next, for the python files, some shell scripts are missing (but since those were specific to the Workload manager ![Slurm](https://slurm.schedmd.com/quickstart.html) used at ![BW Unicluster](https://wiki.bwhpc.de/e/BwUniCluster2.0/Hardware_and_Architecture), you would have to rewrite them anyway).
+Next, for the python files, some shell scripts are missing (but since those were specific to the Workload manager [Slurm](https://slurm.schedmd.com/quickstart.html) used at [BW Unicluster](https://wiki.bwhpc.de/e/BwUniCluster2.0/Hardware_and_Architecture), you would have to rewrite them anyway).
 
 For the notebooks, you could e.g. use
 
